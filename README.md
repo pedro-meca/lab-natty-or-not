@@ -39,10 +39,10 @@ A beautiful spanish women,brunnet woman, long hair, brown eyes, , age 30s ,insta
 Esses foram os prompts usados para chegar no resultado obtido. 
 ## 🚀 Resultados
 Dowload abaixo:
-![Imagem 1](https://github.com/pedro-meca/lab-natty-or-not/assets/134099333/f313c0cc-0d4f-4442-a59f-f422b5e40c46)
-![Imagem 2](https://github.com/pedro-meca/lab-natty-or-not/assets/134099333/f44d2d33-2119-4ed6-b953-06cf72da1be8)
-![Imagem 3](https://github.com/pedro-meca/lab-natty-or-not/assets/134099333/1aceab36-b92e-4784-b306-9e1c040235e4)
-![Imagem 4](https://github.com/pedro-meca/lab-natty-or-not/assets/134099333/07d05e80-fe0a-4524-b342-b146c2b4d15c)
+Imagem 1 [Imagem 1](https://github.com/pedro-meca/lab-natty-or-not/assets/134099333/f313c0cc-0d4f-4442-a59f-f422b5e40c46)
+Imagem 2 [Imagem 2](https://github.com/pedro-meca/lab-natty-or-not/assets/134099333/f44d2d33-2119-4ed6-b953-06cf72da1be8)
+Imagem 3 [Imagem 3](https://github.com/pedro-meca/lab-natty-or-not/assets/134099333/1aceab36-b92e-4784-b306-9e1c040235e4)
+Imagem 4 [Imagem 4](https://github.com/pedro-meca/lab-natty-or-not/assets/134099333/07d05e80-fe0a-4524-b342-b146c2b4d15c)
 
 
 ### Exemplos e Insigths
