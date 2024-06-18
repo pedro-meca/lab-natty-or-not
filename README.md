@@ -39,10 +39,8 @@ A beautiful spanish women,brunnet woman, long hair, brown eyes, , age 30s ,insta
 Esses foram os prompts usados para chegar no resultado obtido. 
 ## 🚀 Resultados
 Dowload abaixo:
-![Resultado:]([imagemia.pdf](https://github.com/user-attachments/files/15892721/imagemia.pdf)
-_Imagem)
 
-
+[imagemia.pdf](https://github.com/user-attachments/files/15892735/imagemia.pdf)
 
 ### Exemplos e Insigths
 
@@ -55,3 +53,4 @@ _Imagem)
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[imagemia.pdf](https://github.com/user-attachments/files/15892737/imagemia.pdf)
